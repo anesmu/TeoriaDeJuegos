@@ -27,7 +27,7 @@ La diferencia de tiempos se ha visto reflejada entre el primer y segundo algorit
      Evaluacion: 2.79e-05s
      Movimientos Recomendados: X = 2, Y = 2
      X coordenada: 2
-     Y coordenada: 2  * Tiempo mínimo:
+     Y coordenada: 2
     
  * Segundo algoritmo:
     Evaluacion: 2.9313872s
